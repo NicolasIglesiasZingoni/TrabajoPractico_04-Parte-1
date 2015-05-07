@@ -1,6 +1,6 @@
 # **Trabajo Practico 4**
 
-  ## **C++**
+## **C++**
   
     ### Ventajas
       * Para programas simples no necesitamos planeamiento
