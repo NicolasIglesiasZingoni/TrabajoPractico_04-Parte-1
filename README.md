@@ -1,41 +1,41 @@
 # **Trabajo Practico 4**
 
-  ##**C++**
+  ## **C++**
   
-    ###Ventajas
+    ### Ventajas
       * Para programas simples no necesitamos planeamiento
 
-    ###Desventajas
+    ### Desventajas
       * Si el programa es complejo, puede que se produzca redundancia
 
-  ##**Pseudocodigo++**
+  ## **Pseudocodigo++**
   
     
-    ###Ventajas
+    ### Ventajas
       * Facil comprension
       * Ordenado
     
-    ###Desventajas
+    ### Desventajas
       * Cada persona maneja su pseudocódigo
 
-  ##**Nassi-Shneiderman**
+  ## **Nassi-Shneiderman**
   
     
-    ###Ventajas
+    ### Ventajas
       * Facil uso de los editores estructurados
       * Son faciles de leer graficamente
     
-    ###Desventajas
+    ### Desventajas
       * En algoritmos extensos su diseño es muy difícil de comprender
       * La mantención ó modificación de este tipo de diagramas es tediosa
-  ##**Diagrama de flujo**
+  ## **Diagrama de flujo**
   
-    ###Ventajas
+    ### Ventajas
       * Permiten identificar los problemas y las oportunidades de mejora del proceso
       * Favorecen la comprensión del proceso
       * Es sencillo y de fácil comprensión 
     
-    ###Desventajas
+    ### Desventajas
       * Consume bastante tiempo de computadora
       * Requiere de muchas lecturas/escrituras en memoria
       * Es el más ineficiente de todos los métodos
