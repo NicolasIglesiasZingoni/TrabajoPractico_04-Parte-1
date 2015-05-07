@@ -2,10 +2,10 @@
 
 ## **C++**
   
- Ventajas
+Ventajas
 * Para programas simples no necesitamos planeamiento
 
- Desventajas
+Desventajas
 * Si el programa es complejo, puede que se produzca redundancia
 
 ## **Pseudocodigo++**
