@@ -9,7 +9,6 @@
 * Si el programa es complejo, puede que se produzca redundancia
 
 ## **Pseudocodigo++**
-  
     
  ### Ventajas
 * Facil comprension
@@ -19,7 +18,6 @@
 * Cada persona maneja su pseudocódigo
 
 ## **Nassi-Shneiderman**
-  
     
 ### Ventajas
 * Facil uso de los editores estructurados
@@ -28,6 +26,7 @@
 ### Desventajas
 * En algoritmos extensos su diseño es muy difícil de comprender
 * La mantención ó modificación de este tipo de diagramas es tediosa
+
 ## **Diagrama de flujo**
   
 ### Ventajas
